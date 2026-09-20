@@ -1,72 +1,70 @@
-````html
-<!-- ===================================================== -->
-<!--             ULTRA PREMIUM GITHUB PROFILE              -->
-<!--                 MD. ABDUR RAHMAN                       -->
-<!-- ===================================================== -->
+````md
+<!-- ========================================================= -->
+<!--        PREMIUM AURORA GITHUB PROFILE — ABDUR RAHMAN        -->
+<!-- ========================================================= -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,25:7B2FFF,50:FF00E5,75:FF006E,100:00FFB3&height=230&section=header&text=MD.%20ABDUR%20RAHMAN&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=IT%20Professional%20%7C%20Graphic%20Designer%20%7C%20Data%20Management%20Specialist&descAlignY=56&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00C9FF,35:7B2FFF,70:FF2D95,100:FF7A00&text=MD.%20ABDUR%20RAHMAN&fontColor=FFFFFF&fontSize=48&fontAlignY=36&animation=fadeIn&desc=IT%20Professional%20%E2%80%A2%20Graphic%20Designer%20%E2%80%A2%20Data%20Management%20Specialist&descAlignY=56&descSize=18"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&multiline=false&repeat=true&width=850&height=60&lines=💻+IT+Professional+%26+Digital+Problem+Solver;🎨+Graphic+Designer+%26+Visual+Creator;📊+Data+Management+%26+Excel+Specialist;📽️+Presentation+%26+Document+Designer;🚀+Creating+Smart+Digital+Solutions"/>
 
 <br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=900&color=00F5FF&center=true&vCenter=true&width=850&height=70&lines=💻+IT+Professional;🎨+Creative+Graphic+Designer;📊+Data+Management+Specialist;📄+Document+Formatting+Expert;📽️+Presentation+Designer;⚡+Digital+Solutions+Creator;🚀+Learning+%7C+Creating+%7C+Growing" alt="Typing SVG" />
-
-<br>
-
-<img src="https://img.shields.io/badge/HELLO-WELCOME%20TO%20MY%20PROFILE-00F5FF?style=for-the-badge&labelColor=111111"/>
-
-<br><br>
 
 <a href="https://github.com/rahman-q-gen">
-<img src="https://img.shields.io/badge/GitHub-rahman--q--gen-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-rahman--q--gen-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="mailto:md.abdur.rahman.career@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=rahman-q-gen&label=PROFILE%20VIEWS&color=blueviolet&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=rahman-q-gen&label=PROFILE%20VIEWS&color=7B2FFF&style=for-the-badge"/>
 
 <br><br>
 
-<img src="https://img.shields.io/github/followers/rahman-q-gen?label=FOLLOWERS&style=for-the-badge&color=00C9FF&labelColor=111111"/>
-<img src="https://img.shields.io/github/stars/rahman-q-gen?affiliations=OWNER&style=for-the-badge&color=FF00AA&labelColor=111111"/>
+<img src="https://img.shields.io/badge/OPEN%20TO-COLLABORATION-00C853?style=flat-square"/>
+<img src="https://img.shields.io/badge/AVAILABLE%20FOR-PROJECTS-FF2D95?style=flat-square"/>
+<img src="https://img.shields.io/badge/LOCATION-BANGLADESH-00AEEF?style=flat-square"/>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+<div align="center">
+
+## ✨ About Me
+
+</div>
 
 <table>
 <tr>
-<td width="62%" valign="top">
+<td width="60%" valign="top">
 
-### 🌟 Hello! I'm **MD. ABDUR RAHMAN**
+### 👋 Hi, I'm **MD. ABDUR RAHMAN**
 
-💻 An enthusiastic **IT Professional** with a passion for technology, design, data, and digital productivity.
+I am an **IT Professional, Graphic Designer, and Data Management Specialist** with a strong interest in technology, visual design, documents, presentations, and efficient digital workflows.
 
-🎨 I enjoy creating professional:
+I enjoy turning ideas and information into:
 
-- Documents
-- Presentations
-- Banners
-- Posters
-- Digital Graphics
-- Data Management Solutions
+- 📝 Professional documents
+- 📊 Organized spreadsheets
+- 🎨 Creative graphics
+- 📽️ Attractive presentations
+- 🗂️ Structured data systems
+- 💻 Practical IT solutions
 
-📊 My working areas include **Microsoft Office, Excel, Data Management, Document Formatting, Adobe Photoshop, Adobe Illustrator, Presentation Design, Computer Operations**, and various digital solutions.
+My core working areas include **Microsoft Office, Microsoft Excel, PowerPoint, Word, Adobe Photoshop, Adobe Illustrator, Data Management, Document Formatting, Presentation Design**, and general computer operations.
 
-🚀 I always try to combine **Technology + Creativity + Productivity** to create useful and professional digital solutions.
+### 🎯 My Mission
 
-🎯 **My Goal:** Continue developing my technical and creative skills while building practical projects that solve real-world problems.
+> **Combine creativity, technology, and organization to build professional digital solutions.**
 
 </td>
 
-<td width="38%" align="center">
+<td width="40%" align="center">
 
-<img width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 </td>
 </tr>
@@ -74,348 +72,340 @@
 
 ---
 
-# ⚡ Professional Highlights
-
 <div align="center">
 
-<img src="https://img.shields.io/badge/💻_IT-Professional-00F5FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🎨_Graphic-Designer-FF00CC?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/📊_Data-Management-00E676?style=for-the-badge"/>
+## 🌈 My Professional Universe
 
-<br>
+<table>
+<tr>
 
-<img src="https://img.shields.io/badge/📄_Document-Formatting-2979FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/📽️_Presentation-Design-FF6D00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🚀_Digital-Solutions-7C4DFF?style=for-the-badge"/>
+<td align="center" width="25%">
+<h3>💻 IT</h3>
+Computer Operations<br>
+Digital Solutions<br>
+Technical Support
+</td>
+
+<td align="center" width="25%">
+<h3>📊 Data</h3>
+Excel<br>
+Data Entry<br>
+Data Management
+</td>
+
+<td align="center" width="25%">
+<h3>🎨 Design</h3>
+Photoshop<br>
+Illustrator<br>
+Visual Design
+</td>
+
+<td align="center" width="25%">
+<h3>📽️ Office</h3>
+Word<br>
+PowerPoint<br>
+Formatting
+</td>
+
+</tr>
+</table>
 
 </div>
 
 ---
 
-# 🛠️ Skills & Expertise
-
-## 💼 Microsoft Office
-
 <div align="center">
+
+## ⚡ Skills & Tools
+
+### 🟦 Microsoft Office
 
 <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white"/>
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft_PowerPoint-D24726?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white"/>
 
-<br>
+<br><br>
 
-<img src="https://img.shields.io/badge/Document_Formatting-0078D4?style=for-the-badge&logo=files&logoColor=white"/>
-<img src="https://img.shields.io/badge/Data_Entry-FFB300?style=for-the-badge&logo=databricks&logoColor=white"/>
-<img src="https://img.shields.io/badge/Data_Management-00C853?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
-
-</div>
-
----
-
-## 🎨 Graphic Design
-
-<div align="center">
+### 🎨 Creative Design
 
 <img src="https://img.shields.io/badge/Adobe_Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF"/>
 <img src="https://img.shields.io/badge/Adobe_Illustrator-330000?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00"/>
 
-<br>
-
-<img src="https://img.shields.io/badge/Banner_Design-FF1744?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Poster_Design-D500F9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Image_Editing-00B0FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Presentation_Design-FF6D00?style=for-the-badge"/>
-
-</div>
-
----
-
-## 💻 IT & Digital Skills
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Computer_Operations-0078D6?style=for-the-badge&logo=windows11&logoColor=white"/>
-<img src="https://img.shields.io/badge/Document_Management-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
-<img src="https://img.shields.io/badge/Digital_Solutions-00C853?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Internet_&_Web-FF6D00?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-
-</div>
-
----
-
-# 🧰 Tools & Technologies
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=ps,ai,windows,github&theme=dark"/>
-
 <br><br>
 
-<img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat-square&logo=microsoftword&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat-square&logo=microsoftpowerpoint&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_Drive-4285F4?style=flat-square&logo=googledrive&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+### 💻 Digital Tools
+
+<img src="https://skillicons.dev/icons?i=windows,github,ps,ai&theme=dark"/>
 
 </div>
 
 ---
-
-# 🚀 What I Do
 
 <div align="center">
 
-| 🎯 Area | ⚡ Services |
-|:---:|:---|
-| 📝 **Documents** | Microsoft Word • Formatting • Editing • Professional Documents |
-| 📊 **Data** | Excel • Data Entry • Data Cleaning • Data Management |
-| 🎨 **Graphic Design** | Photoshop • Illustrator • Banner • Poster • Image Editing |
-| 📽️ **Presentation** | PowerPoint • Slide Design • Professional Presentations |
-| 💻 **IT Support** | Computer Operations • Digital Solutions • General IT Support |
-| 📂 **Document Management** | File Organization • Processing • Formatting |
-| 🌐 **Digital Work** | Internet • Web Technologies • Online Productivity |
+## 🧠 Core Expertise
 
 </div>
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 Data & Productivity
+
+```text
+▰▰▰▰▰▰▰▰▰▱  Microsoft Excel
+▰▰▰▰▰▰▰▰▰▱  Data Management
+▰▰▰▰▰▰▰▰▱▱  Data Entry
+▰▰▰▰▰▰▰▰▰▱  Document Formatting
+▰▰▰▰▰▰▰▰▱▱  File Management
+````
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎨 Creative & Design
+
+```text
+▰▰▰▰▰▰▰▰▱▱  Photoshop
+▰▰▰▰▰▰▰▱▱▱  Illustrator
+▰▰▰▰▰▰▰▰▱▱  Banner Design
+▰▰▰▰▰▰▰▰▱▱  Poster Design
+▰▰▰▰▰▰▰▰▰▱  Presentation Design
+```
+
+</td>
+</tr>
+</table>
+
 ---
+
+<div align="center">
+
+## 🚀 What I Can Do
+
+</div>
+
+| 💎 Category                 | 🛠️ Services                                                          |
+| :-------------------------- | :-------------------------------------------------------------------- |
+| 📝 **Document Solutions**   | Word Formatting • Editing • Professional Documents • Reports          |
+| 📊 **Excel & Data**         | Data Entry • Data Cleaning • Tables • Formatting • Data Management    |
+| 🎨 **Graphic Design**       | Banner • Poster • Social Media Design • Image Editing                 |
+| 📽️ **Presentation Design** | PowerPoint • Business Slides • Academic Slides • Visual Presentations |
+| 💻 **IT Solutions**         | Computer Operations • File Management • Digital Productivity          |
+| 🗃️ **Document Management** | Organizing • Processing • Formatting • Converting                     |
+| 🌐 **Digital Support**      | Web Tools • Online Platforms • General Digital Solutions              |
+
+---
+
+<div align="center">
 
 # 💎 Featured Projects
 
-## 📘 LMS Question Bank Converter
-
-> ### 🚀 MCQ → LMS-Compatible CSV Converter
-
-A specialized system designed to convert **MCQ Question Banks** into structured and **LMS-compatible CSV files**.
-
-### ✨ Key Features
-
-```text
-✅ MCQ Question Conversion
-✅ LMS-Compatible CSV Generation
-✅ Mathematical Notation Support
-✅ LaTeX Equation Support
-✅ Question & Answer Formatting
-✅ Structured Data Processing
-✅ Bulk Question Management
-✅ Efficient Question Bank Workflow
-````
-
-### 🎯 Project Goal
-
-To make it easier to convert structured academic questions into formats that can be imported into modern **Learning Management Systems (LMS)**.
-
----
-
-## 🎨 Graphic Design Projects
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/BANNER-DESIGN-FF006E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/POSTER-DESIGN-8338EC?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SOCIAL_MEDIA-GRAPHICS-3A86FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/IMAGE-EDITING-00B4D8?style=for-the-badge"/>
-
 </div>
 
-<br>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-My graphic design work includes:
+### 📘 LMS Question Bank Converter
 
-* 🖼️ Professional Banner Design
-* 📢 Poster & Promotional Design
-* 🎯 Social Media Graphics
-* 🖌️ Adobe Illustrator Artwork
-* ✨ Photo & Image Editing
+A smart workflow for converting **MCQ questions into LMS-compatible CSV files**.
+
+#### ✨ Features
+
+* ✅ MCQ conversion
+* ✅ CSV generation
+* ✅ LMS compatibility
+* ✅ LaTeX support
+* ✅ Math notation support
+* ✅ Structured question formatting
+* ✅ Bulk data processing
+
+#### 🎯 Purpose
+
+Designed to simplify academic question-bank preparation and LMS importing.
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎨 Creative Design Projects
+
+Professional visual design work including:
+
+* 🖼️ Banner Design
+* 📢 Poster Design
+* 📱 Social Media Graphics
 * 📽️ Presentation Graphics
-* 🎨 Creative Digital Design
-
----
-
-## 📊 Data Management Projects
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/EXCEL-DATA-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/DATA-CLEANING-00C853?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DOCUMENT-PROCESSING-2979FF?style=for-the-badge"/>
-
-</div>
+* 🖌️ Illustrator Artwork
+* ✨ Photo Editing
+* 🎯 Promotional Designs
 
 <br>
 
-My data-related work includes:
+### 📊 Data Projects
 
-* 📗 Microsoft Excel
-* 📑 Data Entry
-* 🧹 Data Cleaning
-* 📊 Data Formatting
-* 📂 Document Processing
-* 🗃️ Data Organization
-* 📈 Spreadsheet Management
-* ⚙️ Productivity Workflows
+* Microsoft Excel
+* Data Cleaning
+* Data Entry
+* Spreadsheet Formatting
+* Document Processing
+* Structured Data Management
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 📊 GitHub Statistics
-
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rahman-q-gen&show_icons=true&theme=radical&hide_border=true&border_radius=15&include_all_commits=true&count_private=true"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rahman-q-gen&theme=radical&hide_border=true&border_radius=15"/>
-
-</div>
+## 🔥 GitHub Dashboard
 
 <br>
 
-<div align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rahman-q-gen&show_icons=true&theme=transparent&hide_border=true&title_color=00E5FF&icon_color=FF2D95&text_color=C9D1D9&ring_color=7B2FFF&include_all_commits=true&count_private=true"/>
 
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahman-q-gen&layout=compact&theme=radical&hide_border=true&border_radius=15"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rahman-q-gen&theme=transparent&hide_border=true&stroke=7B2FFF&ring=00E5FF&fire=FF2D95&currStreakLabel=00E5FF"/>
 
-</div>
+<br><br>
 
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=rahman-q-gen&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=15&column=7"/>
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahman-q-gen&layout=compact&theme=transparent&hide_border=true&title_color=FF2D95&text_color=C9D1D9"/>
 
 </div>
 
 ---
 
-# 📈 GitHub Activity Graph
-
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rahman-q-gen&bg_color=0D1117&color=00F5FF&line=FF00CC&point=FFFFFF&area=true&hide_border=true"/>
+## 📈 Contribution Activity
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=rahman-q-gen&bg_color=0D1117&color=00E5FF&line=7B2FFF&point=FF2D95&area=true&area_color=7B2FFF&hide_border=true&custom_title=My%20GitHub%20Contribution%20Graph"/>
 
 </div>
 
 ---
 
-# 🐍 Contribution Snake
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/rahman-q-gen/rahman-q-gen/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+## 🏆 GitHub Achievements
+
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=rahman-q-gen&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6"/>
 
 </div>
 
 ---
 
-# 🎯 Currently Focusing On
+<div align="center">
+
+## 🎯 Currently Growing In
+
+</div>
+
+<table>
+<tr>
+
+<td align="center">
+<h3>📊</h3>
+<b>Advanced Excel</b><br>
+<sub>Data • Formula • Reporting</sub>
+</td>
+
+<td align="center">
+<h3>🎨</h3>
+<b>Graphic Design</b><br>
+<sub>Creative • Branding • Visuals</sub>
+</td>
+
+<td align="center">
+<h3>📽️</h3>
+<b>Presentation</b><br>
+<sub>Professional Slide Design</sub>
+</td>
+
+<td align="center">
+<h3>💻</h3>
+<b>IT Skills</b><br>
+<sub>Digital Solutions</sub>
+</td>
+
+<td align="center">
+<h3>🌐</h3>
+<b>Web Technology</b><br>
+<sub>Learning & Exploring</sub>
+</td>
+
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 💭 My Creative Formula
+
+<br>
 
 ```text
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║   💻  Improving Advanced IT Skills                  ║
-║   📊  Advanced Microsoft Excel                      ║
-║   🎨  Professional Graphic Design                   ║
-║   📽️  Creative Presentation Design                 ║
-║   📂  Data & Document Management                    ║
-║   🧠  Learning New Digital Technologies             ║
-║   🚀  Building Useful Digital Projects              ║
-║   🌐  Exploring Web Technologies                    ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
+             ✨ IDEA
+                │
+                ▼
+           🎨 CREATIVITY
+                │
+                ▼
+           💻 TECHNOLOGY
+                │
+                ▼
+          📊 ORGANIZATION
+                │
+                ▼
+       🚀 DIGITAL SOLUTION
 ```
 
----
-
-# 🧠 Professional Mindset
-
-<div align="center">
-
-### 💡 Learn • Create • Improve • Repeat
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1200&color=FF00CC&center=true&vCenter=true&width=800&lines=Creativity+turns+ideas+into+reality.;Technology+makes+solutions+possible.;Learning+creates+new+opportunities.;Consistency+builds+professional+growth." />
+### `CREATE • ORGANIZE • DESIGN • IMPROVE`
 
 </div>
 
 ---
 
-# 🌟 My Work Philosophy
-
 <div align="center">
 
-```text
-╭──────────────────────────────────────────────╮
-│                                              │
-│        🎨 Creativity                         │
-│              +                               │
-│        💻 Technology                         │
-│              +                               │
-│        📊 Organization                       │
-│              =                               │
-│        🚀 Powerful Digital Solutions         │
-│                                              │
-╰──────────────────────────────────────────────╯
-```
-
-</div>
-
----
-
-# 📫 Connect With Me
-
-<div align="center">
-
-### 🤝 Let's Connect, Collaborate & Create Something Great!
+## 🤝 Let's Connect
 
 <br>
 
 <a href="mailto:md.abdur.rahman.career@gmail.com">
-<img src="https://img.shields.io/badge/GMAIL-md.abdur.rahman.career%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-<br><br>
 
 <a href="https://github.com/rahman-q-gen">
-<img src="https://img.shields.io/badge/GITHUB-rahman--q--gen-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/OPEN%20TO-COLLABORATION-00E676?style=for-the-badge&labelColor=111111"/>
-
-<img src="https://img.shields.io/badge/AVAILABLE%20FOR-PROJECTS-7C4DFF?style=for-the-badge&labelColor=111111"/>
-
-<img src="https://img.shields.io/badge/LET'S-BUILD%20SOMETHING%20GREAT-FF006E?style=for-the-badge&labelColor=111111"/>
-
-</div>
-
----
-
-# 💬 Favorite Quote
-
-<div align="center">
-
-### ✨ “Creativity + Technology + Consistency = Powerful Digital Solutions” ✨
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1200&color=FF2D95&center=true&vCenter=true&width=750&lines=💡+Turning+Ideas+Into+Digital+Solutions;🎨+Where+Creativity+Meets+Technology;🚀+Learning+Today,+Building+Tomorrow;🤝+Let's+Create+Something+Amazing"/>
 
 <br>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+### 💌 `md.abdur.rahman.career@gmail.com`
 
-</div>
-
----
-
-<div align="center">
-
-## ⭐ Thank You For Visiting My Profile! ⭐
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=750&lines=Thanks+for+visiting!+💙;Feel+free+to+explore+my+projects+🚀;Let's+connect+and+grow+together+🤝;Have+a+great+day!+✨" />
-
-<br><br>
-
-### ⭐ If you like my projects, consider giving them a star! ⭐
+### 🌐 `github.com/rahman-q-gen`
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFB3,25:00F5FF,50:7B2FFF,75:FF00E5,100:FF006E&height=150&section=footer"/>
+<img src="https://img.shields.io/badge/THANKS%20FOR%20VISITING-❤️-FF2D95?style=for-the-badge"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:FF7A00,30:FF2D95,65:7B2FFF,100:00C9FF"/>
 
 </div>
 ```
+
