@@ -419,5 +419,3 @@ My data-related work includes:
 
 </div>
 ```
-
-এটা সরাসরি আপনার GitHub profile repository-এর `README.md`-এ বসাতে পারবেন। শুধু **🐍 Contribution Snake** অংশটি চালু করতে repository-তে আলাদা GitHub Actions workflow লাগবে; বাকি ডিজাইন সরাসরি কাজ করার মতো করে রাখা হয়েছে।
